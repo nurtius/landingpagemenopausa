@@ -150,7 +150,7 @@ export function SpecialBonuses() {
             <span className="text-center leading-tight">
               Quero o Protocolo + os 4 Bônus
               <br className="sm:hidden" />
-              <span className="sm:ml-2">por apenas R$29,90</span>
+              <span className="sm:ml-2">por apenas R$19,90</span>
             </span>
           </Button>
         </div>

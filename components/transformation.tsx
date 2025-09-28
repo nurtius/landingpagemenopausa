@@ -68,7 +68,7 @@ export function Transformation() {
             <span className="text-center leading-tight break-words">
               Quero viver essa transformação
               <br className="sm:hidden" />
-              <span className="hidden sm:inline"> </span>por R$29,90
+              <span className="hidden sm:inline"> </span>por R$19,90
             </span>
           </Button>
           <ScrollArrow className="mt-8" />

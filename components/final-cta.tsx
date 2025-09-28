@@ -17,7 +17,7 @@ export function FinalCTA() {
           </h2>
 
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-            Por apenas R$29,90 você terá acesso completo ao aplicativo com todos os módulos para transformar suas noites
+            Por apenas R$19,90 você terá acesso completo ao aplicativo com todos os módulos para transformar suas noites
             e dias.
           </p>
 

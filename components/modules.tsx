@@ -130,7 +130,7 @@ export function Modules() {
               <span className="text-center leading-tight break-words">
                 Desbloqueie todos os módulos
                 <br className="sm:hidden" />
-                <span className="hidden sm:inline"> </span>agora por apenas R$29,90
+                <span className="hidden sm:inline"> </span>agora por apenas R$19,90
               </span>
             </Button>
           </div>

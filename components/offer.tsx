@@ -44,7 +44,7 @@ export function Offer() {
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-balance mb-4">
               De <span className="line-through text-white/70">R$97</span> por apenas
             </h2>
-            <div className="text-4xl sm:text-5xl lg:text-6xl font-black text-gold mb-4 drop-shadow-lg">R$29,90</div>
+            <div className="text-4xl sm:text-5xl lg:text-6xl font-black text-gold mb-4 drop-shadow-lg">R$19,90</div>
             <p className="text-base sm:text-lg lg:text-xl text-purple-light">
               Oferta especial de lançamento. Válida apenas por tempo limitado.
             </p>
@@ -95,7 +95,7 @@ export function Offer() {
               <span className="text-center leading-tight drop-shadow-sm break-words">
                 Quero garantir meu acesso
                 <br className="sm:hidden" />
-                <span className="hidden sm:inline"> </span>por R$29,90
+                <span className="hidden sm:inline"> </span>por R$19,90
               </span>
             </Button>
           </div>

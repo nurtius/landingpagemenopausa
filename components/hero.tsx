@@ -35,7 +35,7 @@ export function Hero() {
                   <div className="flex items-center justify-center gap-3 sm:gap-4">
                     <span className="text-lg sm:text-xl lg:text-2xl text-muted-foreground line-through">De R$97</span>
                     <span className="text-3xl sm:text-4xl lg:text-5xl font-bold text-purple-medium bg-gradient-to-r from-purple-medium to-purple-dark bg-clip-text text-transparent">
-                      R$29,90
+                      R$19,90
                     </span>
                   </div>
                   <p className="text-sm sm:text-base text-purple-dark font-semibold text-center">
